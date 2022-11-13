@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SurveyAppGS</string>
+    <string name="enter_customer_details_text">Enter Customer Details</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="customer_name">Name</string>
+    <string name="next_button">Next</string>
+    <string name="clicked">Clicked</string>
+</resources>
