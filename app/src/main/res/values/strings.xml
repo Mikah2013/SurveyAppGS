@@ -5,4 +5,7 @@
     <string name="customer_name">Name</string>
     <string name="next_button">Next</string>
     <string name="clicked">Clicked</string>
+    <string name="create_survey">Create Survey</string>
+    <string name="complete_survey">Complete Survey</string>
+    <string name="welcome_text">Welcome</string>
 </resources>
